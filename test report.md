@@ -8,21 +8,18 @@
 * системное функциональное тестирование приложения KeyValidator.
 
 
-### На тестирование затрачено: <время в часах>
+### На тестирование затрачено: 2 часа
 
 ### В результате тестирования выявлены следующие дефекты:
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
+1. [KeyValidator неверно обрабатывает тестовый валидный ключ 80b427f8](https://github.com/blackartqa/JavaHW1-1/issues/1)
+2. [KeyValidator неверно обрабатывает тестовый валидный ключ 387eedc6](https://github.com/blackartqa/JavaHW1-1/issues/3)
+3. [KeyValidator неверно обрабатывает тестовый невалидный ключ ](https://github.com/blackartqa/JavaHW1-1/issues/2)
 
 ## Описание процесса тестирования
 
 ### В процессе тестирования использовались следующие артефакты:
 * [Чеклист](https://github.com/blackartqa/JavaHW1-1/blob/master/checklist.md)
 * [Руководство пользователя](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md#%D0%BA%D0%BB%D1%8E%D1%87%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B8)
-
-
-
 
 ### В качестве тестовых данных использовались данные из [руководсва использования](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md#%D0%BA%D0%BB%D1%8E%D1%87%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B8) :
 
