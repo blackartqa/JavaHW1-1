@@ -11,9 +11,8 @@
 ### На тестирование затрачено: 2 часа
 
 ### В результате тестирования выявлены следующие дефекты:
-1. [KeyValidator неверно обрабатывает тестовый валидный ключ 80b427f8](https://github.com/blackartqa/JavaHW1-1/issues/1)
-2. [KeyValidator неверно обрабатывает тестовый валидный ключ 387eedc6](https://github.com/blackartqa/JavaHW1-1/issues/3)
-3. [KeyValidator неверно обрабатывает тестовый невалидный ключ ](https://github.com/blackartqa/JavaHW1-1/issues/2)
+1. [KeyValidator неверно обрабатывает тестовый валидный ключ](https://github.com/blackartqa/JavaHW1-1/issues/1)
+2. [KeyValidator неверно обрабатывает тестовый невалидный ключ ](https://github.com/blackartqa/JavaHW1-1/issues/2)
 
 ## Описание процесса тестирования
 
